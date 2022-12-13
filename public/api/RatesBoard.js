@@ -1,4 +1,3 @@
-
 class RatesBoard {
   constructor() {
     this.tableBody = document.querySelector('table.table.rates tbody');
